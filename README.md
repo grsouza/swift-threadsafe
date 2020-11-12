@@ -11,7 +11,7 @@ Micro library for Swift that guarantees synchonized access to a wrapped value.
 let package = Package(
     ...
     dependencies: [
-        .package(url: "https://github.com/grsouza/swift-threadsafe.git", from: "0.1.0")
+        .package(url: "https://github.com/grsouza/swift-threadsafe.git", from: "1.0.0")
     ],
     ...
 )
@@ -45,4 +45,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://github.com/grsouza/Box.swift/blob/master/LICENSE)
+[MIT](https://github.com/grsouza/swift-threadsafe/blob/master/LICENSE)
