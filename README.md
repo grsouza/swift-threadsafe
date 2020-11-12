@@ -11,7 +11,7 @@ Micro library for Swift that guarantees synchonized access to a wrapped value.
 let package = Package(
     ...
     dependencies: [
-        .package(url: "https://github.com/grsouza/swift-threadsafe.git", from: "1.0.0")
+        .package(url: "https://github.com/grsouza/swift-threadsafe.git", from: "0.1.0")
     ],
     ...
 )
